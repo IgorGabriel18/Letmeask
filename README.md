@@ -4,12 +4,3 @@
 <p>
     Um Website desenvolvido durante a 6 edição do NLW da Rocketseat, que serve como um meio de criação de salas de perguntas, que ao se autenticar com o Google você pode entrar em alguma sala existente, podendo tirar sua dúvida, tendo opções de likes, publicações e marcações de perguntas importantes. Também Há a opção do Admin da sala, que com seus direitos de criador da sala, pode excluir uma pergunta ou encerrar a própria sala.
 </p>
-
-<h2>Tecnologias usadas</h2>
-<ul>
-    <li>HTML</li>
-    <li>SASS</li>
-    <li>TypeScript</li>
-    <li>React.JS</li>
-    <li>Firebase</li>
-</ul>
